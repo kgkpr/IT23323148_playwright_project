@@ -63,7 +63,7 @@ const negativeTests = [
   { id: 'Neg_Fun_0005', input: 'mama offce giyaa Zoom ekata join venna namuth meeting eka hariyata therune naee.' },
   { id: 'Neg_Fun_0006', input: 'mama     gedhara     giyaata     passe     amma     ekka     kathaa kalaa' },
   { id: 'Neg_Fun_0007', input: 'mama yanna hithan inne namuth heta monavadha venne kiyla' },
-  { id: 'Neg_Fun_0008', input: 'mama ##@@ gedhara giyaa %% passe @@ amma ekka kathaa kalaa' },
+  { id: 'Neg_Fun_0008', input: 'mama ##@@ gedhara giyaa % passe amma ekka kathaa kalaa' },
   { id: 'Neg_Fun_0009', input: 'adha mama kaemps giyaa udhee lecture ekakata attend venna lecture ekata yanakota tikak parakku unaa mokadha bus eke crowd eka vaedi class eka atharathuredhi lecturer assignment eka gaena kiyala dhunna saha next week deadline eka kiyala kivvaa passe yaluvo ekka canteen ekee lunch eka gaththaa iita passe library ekata gihin notes balala, group discussion ekakata join unaa raee venne kalin hostel ekata aavaa aevilla kaalaa nidhaagaththaa' },
   { id: 'Neg_Fun_0010', input: 'oyaa hodhindha' },
 ];
