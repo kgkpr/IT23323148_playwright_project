@@ -1,0 +1,213 @@
+[
+     {
+       "id": "Pos_Fun_0001",
+       "name": "Simple Daily Question",
+       "input": "oyaata adha vaeda thiyenavadha?",
+       "expected_output": "ඔයාට අද වැඩ තියෙනවද?"
+     },
+     {
+       "id": "Pos_Fun_0002",
+       "name": "Future Plan Sentence",
+       "input": "api heta raeeta film ekak balamu.",
+       "expected_output": "අපි හෙට රෑට film එකක් බලමු."
+     },
+     {
+       "id": "Pos_Fun_0003",
+       "name": "Polite Command",
+       "input": "karuNaakaralaa meeka balanna.",
+       "expected_output": "කරුණාකරලා මේක බලන්න."
+     },
+     {
+       "id": "Pos_Fun_0004",
+       "name": "Compound Sentence",
+       "input": "mama office giyaa, namuth vaessa hindha kalin aavaa.",
+       "expected_output": "මම office ගියා, නමුත් වැස්ස හින්ද කලින් ආවා."
+     },
+     {
+       "id": "Pos_Fun_0005",
+       "name": "Mixed English with Time",
+       "input": "oyaa adha 10.30 AM ta Zoom meeting ekata attend karanavadha?",
+       "expected_output": "ඔයා අද 10.30 AM ට Zoom meeting එකට attend කරනවද?"
+     },
+     {
+       "id": "Pos_Fun_0006",
+       "name": "Currency Usage",
+       "input": "mama laGA Rs. 1000k thiyenavaa.",
+       "expected_output": "මම ලඟ Rs. 1000ක් තියෙනවා."
+     },
+     {
+       "id": "Pos_Fun_0007",
+       "name": "Place Name Sentence",
+       "input": "api lamayi ekka Kandy paeththe trip ekak yanna hadhanne.",
+       "expected_output": "අපි ලමයි එක්ක Kandy පැත්තෙ trip එකක් යන්න හදන්නෙ."
+     },
+     {
+       "id": "Pos_Fun_0008",
+       "name": "Plural Command",
+       "input": "oyaalaa okkoma adha form eka submit karanna.",
+       "expected_output": "ඔයාලා ඔක්කොම අද form එක submit කරන්න."
+     },
+     {
+       "id": "Pos_Fun_0009",
+       "name": "Email Usage",
+       "input": "mama dhaen email eka check karanavaa.",
+       "expected_output": "මම දැන් email එක check කරනවා."
+     },
+     {
+       "id": "Pos_Fun_0010",
+       "name": "Informal Praise",
+       "input": "anee eeka hari lassanayi.",
+       "expected_output": "අනේ ඒක හරි ලස්සනයි."
+     },
+     {
+       "id": "Pos_Fun_0011",
+       "name": "Past Tense Action",
+       "input": "mama iiyee shopping giyaa.",
+       "expected_output": "මම ඊයේ shopping ගියා."
+     },
+     {
+       "id": "Pos_Fun_0012",
+       "name": "Negative Form Sentence",
+       "input": "mata eeka karanna baehae.",
+       "expected_output": "මට ඒක කරන්න බැහැ."
+     },
+     {
+       "id": "Pos_Fun_0013",
+       "name": "Question with Options",
+       "input": "oyaata tea ekakdha coffee ekakdha vena monavaharidha oone?",
+       "expected_output": "ඔයාට tea එකක්ද coffee එකක්ද වෙන මොනවහරිද ඕනෙ?"
+     },
+     {
+       "id": "Pos_Fun_0014",
+       "name": "Instruction Sentence",
+       "input": "puLuvannam meeka hariyata kiyavalaa passe dhenna.",
+       "expected_output": "පුළුවන්නම් මේක හරියට කියවලා පස්සෙ දෙන්න."
+     },
+     {
+       "id": "Pos_Fun_0015",
+       "name": "Mixed English Instruction",
+       "input": "please meeka hariyata check karalaa email ekakin yavanna.",
+       "expected_output": "please මේක හරියට check කරලා email එකකින් යවන්න."
+     },
+     {
+       "id": "Pos_Fun_0016",
+       "name": "Conditional Sentence",
+       "input": "oyaa enavanam mama adha kohomahari enavaa vaeda thibbath naethath.",
+       "expected_output": "ඔයා එනවනම් මම අද කොහොමහරි එනවා වැඩ තිබ්බත් නැතත්."
+     },
+     {
+       "id": "Pos_Fun_0017",
+       "name": "Short Greeting",
+       "input": "suba udhaeesanak.",
+       "expected_output": "සුබ උදෑසනක්."
+     },
+     {
+       "id": "Pos_Fun_0018",
+       "name": "Emotional Response",
+       "input": "ehema hoDHAyi.",
+       "expected_output": "එහෙම හොඳයි."
+     },
+     {
+       "id": "Pos_Fun_0019",
+       "name": "Convert Long Mixed-Language Meeting Summary",
+       "input": "mama adha office giyaata passe Zoom meeting ekakata join unaa. meeting eka 9.30 AM ta patan gaththaa ee vageema project deadline eka gana loku discussion ekak thibbaa. traffic eka hindha mama parakku vunaa, namuth team eka magee situation eka therum gaththaa. passe email ekakin meeting summary ekak yaevvaa saha heta venne monavadha kiyala plan ekak hadhala gedhara aavaa.",
+       "expected_output": "මම අද office ගියාට පස්සෙ Zoom meeting එකකට join උනා. meeting එක 9.30 AM ට පටන් ගත්තා ඒ වගේම project deadline එක ගන ලොකු discussion එකක් තිබ්බා. traffic එක හින්ද මම පරක්කු වුනා, නමුත් team එක මගේ situation එක තෙරුම් ගත්තා. පස්සෙ email එකකින් meeting summary එකක් යැව්වා සහ හෙට වෙන්නෙ මොනවද කියල plan එකක් හදල ගෙදර ආවා."
+     },
+     {
+       "id": "Pos_Fun_0020",
+       "name": "Convert Long Mixed-Language Party Preparation Paragraph",
+       "input": "adha gedhara loku party ekakata laesthi venavaa. ammaa , akkaa okkoma udhee idhanma vaeda karanavaa, namuth time hari ikmanata yanne. guests la enna kalin decorations tika hariyata set karala, buffet eka balala, music play karala okkoma ready kalaa. party eka hari lassanata karanna api haemoogema loku kaemaththak thiyenavaa.",
+       "expected_output": "අද ගෙදර ලොකු party එකකට ලැස්ති වෙනවා. අම්මා , අක්කා ඔක්කොම උදේ ඉදන්ම වැඩ කරනවා, නමුත් time හරි ඉක්මනට යන්නෙ. guests ල එන්න කලින් decorations ටික හරියට සෙට් කරල, buffet එක බලල, music play කරල ඔක්කොම ready කලා. party එක හරි ලස්සනට කරන්න අපි හැමෝගෙම ලොකු කැමත්තක් තියෙනවා."
+     },
+     {
+       "id": "Pos_Fun_0021",
+       "name": "Mixed English Academic Sentence",
+       "input": "adha mata lecture eka miss vuna nisaa mama lecturer ta message ekak yavala kaaranaya kiyala lecture eka explain karagaththaa.",
+       "expected_output": "අද මට lecture එක miss වුන නිසා මම lecturer ට message එකක් යවල කාරනය කියල lecture එක explain කරගත්තා."
+     },
+     {
+       "id": "Pos_Fun_0022",
+       "name": "Short Student Feeling",
+       "input": "adha lecturer hari lassanayi.",
+       "expected_output": "අද lecturer හරි ලස්සනයි."
+     },
+     {
+       "id": "Pos_Fun_0023",
+       "name": "Mixed Future English Sentence",
+       "input": "api heta library ekata gihin study session ekak karamu kiyala yaaluvo ekka kathaa karagaththaa.",
+       "expected_output": "අපි හෙට library එකට ගිහින් study session එකක් කරමු කියල යාලුවො එක්ක කතා කරගත්තා."
+     },
+     {
+       "id": "Pos_Fun_0024",
+       "name": "Long Mixed-Language Academic Paragraph",
+       "input": "adha mama kaemps giyaa udhee lecture ekakata attend venna. lecture ekata yanakota tikak parakku unaa, mokadha bus eke crowd eka vaedi. class eka atharathuredhi lecturer assignment eka gaena kiyala dhunna saha next week deadline eka kiyala kivvaa. passe yaluvo ekka canteen ekee lunch eka gaththaa. iita passe library ekata gihin notes balala, group discussion ekakata join unaa. raee venne kalin hostel ekata aavaa, aevilla kaalaa nidhaagaththaa.",
+       "expected_output": "අද මම කැම්ප්ස් ගියා උදේ lecture එකකට attend වෙන්න. lecture එකට යනකොට ටිකක් පරක්කු උනා, මොකද bus eke crowd එක වැඩි. class එක අතරතුරෙදි lecturer assignment එක ගැන කියල දුන්න සහ next week deadline එක කියල කිව්වා. පස්සෙ යලුවො එක්ක canteen එකේ lunch එක ගත්තා. ඊට පස්සෙ library එකට ගිහින් notes බලල, group discussion එකකට join උනා. රෑ වෙන්නෙ කලින් hostel එකට ආවා, ඇවිල්ල කාලා නිදාගත්තා."
+     },
+     {
+       "id": "Neg_Fun_0001",
+       "name": "Joined Words Without Spaces",
+       "input": "mamagedharayanavaa",
+       "expected_output": "මම ගෙදර යනවා"
+     },
+     {
+       "id": "Neg_Fun_0002",
+       "name": "Slang-Heavy Short Sentence",
+       "input": "ela ban mokakdha scene eka",
+       "expected_output": "එල බන් , මොකක්ද scene එක?"
+     },
+     {
+       "id": "Neg_Fun_0003",
+       "name": "Excess Punctuation Marks",
+       "input": "mama gedhara yanavaa!!!",
+       "expected_output": "මම ගෙදර යනවා"
+     },
+     {
+       "id": "Neg_Fun_0004",
+       "name": "Misspelled Negation Word",
+       "input": "mata eeka karanna ba",
+       "expected_output": "මට ඒක කරන්න බෑ"
+     },
+     {
+       "id": "Neg_Fun_0005",
+       "name": "Mixed Singlish and English With Typos",
+       "input": "mama offce giyaa Zoom ekata join venna namuth meeting eka hariyata therune naee.",
+       "expected_output": "මම office ගියා Zoom එකට join වෙන්න නමුත් meeting එක හරියට තෙරුනෙ නෑ."
+     },
+     {
+       "id": "Neg_Fun_0006",
+       "name": "Multiple Consecutive Spaces",
+       "input": "mama     gedhara     giyaata     passe     amma     ekka     kathaa kalaa",
+       "expected_output": "මම ගෙදර ගියාට පස්සෙ අම්ම එක්ක කතා කලා"
+     },
+     {
+       "id": "Neg_Fun_0007",
+       "name": "Incomplete Sentence Structure",
+       "input": "mama yanna hithan inne namuth heta monavadha venne kiyala",
+       "expected_output": "මම යන්න හිතන් ඉන්නේ නමුත් හෙට මොනවද වෙන්නෙ කියල දන්නෙ නෑ"
+     },
+     {
+       "id": "Neg_Fun_0008",
+       "name": "Random Unsupported Symbols",
+       "input": "mama ##@@ gedhara giyaa % passe amma ekka kathaa kalaa",
+       "expected_output": "මම අද ගෙදර ගියාට පස්සෙ අම්ම එක්ක කතා කලා"
+     },
+     {
+       "id": "Neg_Fun_0009",
+       "name": "Long Unstructured Paragraph Without Punctuation",
+       "input": "adha mama kaemps giyaa udhee lecture ekakata attend venna lecture ekata yanakota tikak parakku unaa mokadha bus eke crowd eka vaedi class eka atharathuredhi lecturer assignment eka gaena kiyala dhunna saha next week deadline eka kiyala kivvaa passe yaluvo ekka canteen ekee lunch eka gaththaa iita passe library ekata gihin notes balala, group discussion ekakata join unaa raee venne kalin hostel ekata aavaa aevilla kaalaa nidhaagaththaa",
+       "expected_output": "අද මම කැම්ප්ස් ගියා උදේ lecture එකකට attend වෙන්න. lecture එකට යනකොට ටිකක් පරක්කු උනා, මොකද bus eke crowd එක වැඩි. class එක අතරතුරෙදි lecturer assignment එක ගැන කියල දුන්න සහ next week deadline එක කියල කිව්වා. පස්සෙ යලුවො එක්ක canteen එකේ lunch එක ගත්තා. ඊට පස්සෙ library එකට ගිහින් notes බලල, group discussion එකකට join උනා. රෑ වෙන්නෙ කලින් hostel එකට ආවා, ඇවිල්ල කාලා නිදාගත්තා."
+     },
+     {
+       "id": "Neg_Fun_0010",
+       "name": "Question Sentence Without Question Mark",
+       "input": "oyaa hodhindha",
+       "expected_output": "ඔයා හොදින්ද?"
+     },
+     {
+       "id": "Pos_UI_0001",
+       "name": "Sinhala Output Updates automatically in real time",
+       "input": "mama iiyee office giyaa.",
+       "expected_output": "මම ඊයේ office ගියා."
+     }
+   ]
+   
