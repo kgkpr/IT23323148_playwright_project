@@ -68,8 +68,8 @@
      {
        "id": "Pos_Fun_0012",
        "name": "Negative Form Sentence",
-       "input": "mata eeka karanna baehae.",
-       "expected_output": "මට ඒක කරන්න බැහැ."
+       "input": "mata oyaa ekka enna baee.",
+       "expected_output": "මට ඔයා එක්ක එන්න බෑ."
      },
      {
        "id": "Pos_Fun_0013",
@@ -146,8 +146,8 @@
      {
        "id": "Neg_Fun_0001",
        "name": "Joined Words Without Spaces",
-       "input": "mamagedharayanavaa",
-       "expected_output": "මම ගෙදර යනවා"
+       "input": "mamaadhathaniyamaeheeyanavaa..",
+       "expected_output": "මම අද තනියම එහේ යනවා.."
      },
      {
        "id": "Neg_Fun_0002",
@@ -158,20 +158,20 @@
      {
        "id": "Neg_Fun_0003",
        "name": "Excess Punctuation Marks",
-       "input": "mama gedhara yanavaa!!!",
-       "expected_output": "මම ගෙදර යනවා"
+       "input": "mama heta hari pansal yanavaa!!!",
+       "expected_output": "මම හෙට හරි පන්සල් යනවා"
      },
      {
        "id": "Neg_Fun_0004",
        "name": "Misspelled Negation Word",
-       "input": "mata eeka karanna ba",
-       "expected_output": "මට ඒක කරන්න බෑ"
+       "input": "mata oyaa ekka enna b",
+       "expected_output": "මට ඔයා එක්ක එන්න බෑ"
      },
      {
        "id": "Neg_Fun_0005",
        "name": "Mixed Singlish and English With Typos",
-       "input": "mama offce giyaa Zoom ekata join venna namuth meeting eka hariyata therune naee.",
-       "expected_output": "මම office ගියා Zoom එකට join වෙන්න නමුත් meeting එක හරියට තෙරුනෙ නෑ."
+       "input": "mama offce giyaa Zoom meeting ekata join venna kiyala hithaagena. namuth meeting eka cancel unaa.",
+       "expected_output": "මම office ගියා Zoom meeting එකට join වෙන්න කියල හිතාගෙන. නමුත් meeting එක cancel උනා."
      },
      {
        "id": "Neg_Fun_0006",
