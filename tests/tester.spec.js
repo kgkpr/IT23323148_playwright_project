@@ -23,7 +23,7 @@ for (const testCase of testCases) {
     await TypeInput(page, input);
 
     // Process
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(5000);
 
     // Output
     const expectedOutput = testCase.expected_output;
